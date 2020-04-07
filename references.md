@@ -21,6 +21,7 @@
 > [18] Generative Adversarial Nets
 > [19] Conditional Generative Adversarial Nets
 > [20] Image-to-Image Translation with Conditional Adversarial Networks
+> [20+] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 > [21] zi2zi
 > [22] DCFont: An End-To-End Deep Chinese Font Generation System
 > [23] SCFont: Structure-Guided Chinese Font Generation via Deep Stacked Networks
@@ -32,11 +33,31 @@
 > [29] Creating New Chinese Fonts based on Manifold Learning and Adversarial Networks
 > [30] A Learned Representation for Scalable Vector Graphics
 > [31] Tensor2Tensor for Neural Machine Translation
-> [5]
-> [5]
-> [5]
-> [5]
-> [5]
+> [32] Deep Learning for Generic Object Detection: A Survey(Li Liu, Wanli Ouyang)
+> [33] You Only Look Once: Unified, Real-Time Object Detection
+> [34] YOLO9000: Better, Faster, Stronger
+> [35] Focal Loss for Dense Object Detection
+> [36] Rich feature hierarchies for accurate object detection and semantic segmentation
+> [37] Selective search for object recognition
+> [38] Fast R-CNN
+> [39] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+> [40] Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+> [41] RFCN: object detection via region based fully convolutional networks
+> [42] CornerNet: Detecting Objects as Paired Keypoints
+> [43] CenterNet: Keypoint Triplets for Object Detection
+> [44] Objects as Points
+> [45] FCOS: Fully Convolutional One-Stage Object Detection
+> [46] Bottom-up Object Detection by Grouping Extreme and Center Points
+> [47] Hierarchical Chinese character database based on radical reuse
+> [48] A TrueType Font Compression Method Based on the Structure of Chinese Characters
+> [49] Skeleton-Guided Vectorization of Chinese Calligraphy Images
+> [50] As-Compact-As-Possible Vectorization for Character Images
+> [51] U-Net: Convolutional Networks for Biomedical Image Segmentation
+> [37]
+> [37]
+> [37]
+> [37]
+> [37]
 > [5]STYLE PRESERVING CHINESE CHARACTER SYNTHESIS BASED ON HIERARCHICAL REPRESENTATION OF CHARACTER (Compression)
 > [5]A Heuristic Search Approach to Chinese Glyph Generation Using Hierarchical Character Composition (Compression)
 ```
