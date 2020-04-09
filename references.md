@@ -9,7 +9,7 @@
 > [6] EASY GENERATION OF PERSONAL CHINESE HANDWRITTEN FONTS, Baoyao Zhou 
 > [7] StrokeBank: Automating Personalized Chinese Handwriting Generation
 > [8] Complete Font Generation of Chinese Characters in Personal Handwriting Style 
-> [9] A Heuristic Search Approach to Chinese Glyph Generation Using Hierarchical Character Composition
+> [9] STYLE PRESERVING CHINESE CHARACTER SYNTHESIS BASED ON HIERARCHICAL REPRESENTATION OF CHARACTER
 > [10] Learning a Manifold of Fonts
 > [11] My Text in Your Handwriting
 > [12] Automatic Generation of Typographic Font From Small Font Subset
@@ -47,17 +47,33 @@
 > [43] CenterNet: Keypoint Triplets for Object Detection
 > [44] Objects as Points
 > [45] FCOS: Fully Convolutional One-Stage Object Detection
+> [45+] Region Proposal by Guided Anchoring
 > [46] Bottom-up Object Detection by Grouping Extreme and Center Points
 > [47] Hierarchical Chinese character database based on radical reuse
 > [48] A TrueType Font Compression Method Based on the Structure of Chinese Characters
 > [49] Skeleton-Guided Vectorization of Chinese Calligraphy Images
 > [50] As-Compact-As-Possible Vectorization for Character Images
 > [51] U-Net: Convolutional Networks for Biomedical Image Segmentation
-> [37]
-> [37]
-> [37]
-> [37]
-> [37]
-> [5]STYLE PRESERVING CHINESE CHARACTER SYNTHESIS BASED ON HIERARCHICAL REPRESENTATION OF CHARACTER (Compression)
-> [5]A Heuristic Search Approach to Chinese Glyph Generation Using Hierarchical Character Composition (Compression)
+> [52] High logic. FontCreator[Z]. http://www.high-logic.com/, 2017
+> [53] Founder group FOUNDER: Founder group. http://www.foundertype.com/ (2015)
+> [54] Least squares quantization in PCM
+> [55] Automatical System to Generate High-Quality Chinese Font Libraries Based on Component Assembling
+> [56] A Benchmark For Stroke Extraction of Chinese Characters
+> [57]
+> [57]
+> [57]
+> [57]
+> [57]
+> [57]
+> [57]
+> [57]
+> [57]
+> [57]
+> [57]
+> [57]
+> [57]
+> [57]
+
+> [+] A Heuristic Search Approach to Chinese Glyph Generation Using Hierarchical Character Composition (Compression 迭代优化)
+> [+] Designing chinese typeface using components (Compression 迭代优化)
 ```
