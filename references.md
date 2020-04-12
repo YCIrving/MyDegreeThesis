@@ -61,13 +61,13 @@
 > [55] Automatical System to Generate High-Quality Chinese Font Libraries Based on Component Assembling
 > [56] A Benchmark For Stroke Extraction of Chinese Characters
 > [57] Automatic Shape Morphing for Chinese Characters
-> [58] 汉字笔画自动提取技术及其应用 RESEARCHES ON STROKE EXTRACTION METHODS AND APPLICATIONS FOR CHINESE CHARACTERS
+> [58] 汉字笔画自动提取技术及其应用 RESEARCHES ON STROKE EXTRACTION METHODS AND APPLICATIONS FOR CHINESE CHARACTERS （陈旭东师兄毕业论文）
 > [59] Point set registration: Coherent point drift
 > [59+] Microsoft COCO: Common Objects in Context
 > [60] Deep Residual Learning for Image Recognition
 > [61] Wubi method — Wikipedia, The Free Encyclopedia.http://en.wikipedia.org/w/index.php?title=Wubi%20method&oldid=886931640.
-> [57]
-> [57]
+> [62] Wikipedia. 2019. MNIST databaseWikipedia. 2019. MNIST database — Wikipedia, The Free Encyclopedia.http://en.wikipedia.org/w/index.php?title=MNIST%20database&oldid=890581692. [Online; accessed 07-April-2019
+> [63] Structure-Aware Image Resizing for Chinese Characters
 > [57]
 > [57] 
 > [57]
