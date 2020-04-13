@@ -68,9 +68,9 @@
 > [61] Wubi method — Wikipedia, The Free Encyclopedia.http://en.wikipedia.org/w/index.php?title=Wubi%20method&oldid=886931640.
 > [62] Wikipedia. 2019. MNIST databaseWikipedia. 2019. MNIST database — Wikipedia, The Free Encyclopedia.http://en.wikipedia.org/w/index.php?title=MNIST%20database&oldid=890581692. [Online; accessed 07-April-2019
 > [63] Structure-Aware Image Resizing for Chinese Characters
-> [57]
-> [57] 
-> [57]
+> [64] Wiki Unicode
+> [65] Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression 
+> [66] Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
 > [57]
 > [57]
 > [57]
