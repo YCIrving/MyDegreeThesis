@@ -79,6 +79,8 @@
 > [71] Equation of state calculations by fast computing machines
 > [72] Monte Carlo sampling methods using Markov chains and their applications.
 > [73] Aesthetic visual quality evaluation of chinese handwritings （潘婉琼）
+> [74] Mask R-CNN
+> [75] CenterMask : Real-Time Anchor-Free Instance Segmentation
 
 
 
