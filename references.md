@@ -4,6 +4,7 @@
 > [1] 段华伟，黄灵阁. 计算机文字处理技术现状[J]. 印刷质量与标准化，2004，(5):39-41
 > [2] Wikipedia. 2019. Computer font — Wikipedia, The Free Encyclopedia. http://en.wikipedia.org/w/index.php?title=Computer%20font&oldid=891188663. [Online; accessed 06-April-2019].
 > [3] Wikipedia.2019. GB 2312 — Wikipedia, The Free Encyclopedia.http://en.wikipedia.org/w/index.php?title=GB%202312&oldid=887751871. [Online;accessed 06-April-2019]. 
+> [3+] Optimization by simulated annealing
 > [4] 一个产生高质量汉字的试验性系统，董韫美
 > [5] Automatic Generation of Personal Chinese Handwriting by Capturing the Characteristics of Personal Handwriting, xusonghua
 > [6] EASY GENERATION OF PERSONAL CHINESE HANDWRITTEN FONTS, Baoyao Zhou 
@@ -71,11 +72,15 @@
 > [64] Wiki Unicode
 > [65] Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression 
 > [66] Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
-> [57]
-> [57]
-> [57]
-> [57]
+> [67] Histograms of oriented gradients for human detection
+> [68] Designing chinese typeface using components
+> [69] Chinese Glyph Generation by Heuristic Search
+> [70] Directing user attention via visual flow on web designs
+> [71] Equation of state calculations by fast computing machines
+> [72] Monte Carlo sampling methods using Markov chains and their applications.
+> [73] Aesthetic visual quality evaluation of chinese handwritings （潘婉琼）
 
-> [+] A Heuristic Search Approach to Chinese Glyph Generation Using Hierarchical Character Composition (Compression 迭代优化)
-> [+] Designing chinese typeface using components (Compression 迭代优化)
+
+
+
 ```
