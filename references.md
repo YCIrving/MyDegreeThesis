@@ -1,88 +1,84 @@
 
 # 参考文献
 
-> [1] 段华伟，黄灵阁. 计算机文字处理技术现状[J]. 印刷质量与标准化，2004，(5):39-41
-> [2] Wikipedia. 2019. Computer font — Wikipedia, The Free Encyclopedia. http://en.wikipedia.org/w/index.php?title=Computer%20font&oldid=891188663. [Online; accessed 06-April-2019].
-> [3] Wikipedia.2019. GB 2312 — Wikipedia, The Free Encyclopedia.http://en.wikipedia.org/w/index.php?title=GB%202312&oldid=887751871. [Online;accessed 06-April-2019]. 
-> [3+] Optimization by simulated annealing
-> [4] 一个产生高质量汉字的试验性系统，董韫美
-> [5] Automatic Generation of Personal Chinese Handwriting by Capturing the Characteristics of Personal Handwriting, xusonghua
-> [6] EASY GENERATION OF PERSONAL CHINESE HANDWRITTEN FONTS, Baoyao Zhou 
-> [7] StrokeBank: Automating Personalized Chinese Handwriting Generation
-> [8] Complete Font Generation of Chinese Characters in Personal Handwriting Style 
-> [9] STYLE PRESERVING CHINESE CHARACTER SYNTHESIS BASED ON HIERARCHICAL REPRESENTATION OF CHARACTER
-> [10] Learning a Manifold of Fonts
-> [11] My Text in Your Handwriting
-> [12] Automatic Generation of Typographic Font From Small Font Subset
-> [13] EasyFont: A Style Learning-Based System to Easily Build Your Large-Scale Handwriting Fonts
-> [14] Gradient-based learning applied to document recognition
-> [15] Long short-term memory
-> [16] Learning to Write Stylized Chinese Characters by Reading a Handful of Examples
-> [17] A Unified Framework for Generalizable Style Transfer: Style and Content Separation
-> [18] Generative Adversarial Nets
-> [19] Conditional Generative Adversarial Nets
-> [20] Image-to-Image Translation with Conditional Adversarial Networks
-> [20+] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
-> [21] zi2zi
-> [22] DCFont: An End-To-End Deep Chinese Font Generation System
-> [23] SCFont: Structure-Guided Chinese Font Generation via Deep Stacked Networks
-> [24] Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis
-> [25] GlyphGAN: Style-consistent font generation based on generative adversarial networks
-> [26] Multi-Content GAN for Few-Shot Font Style Transfer
-> [27] A Common Framework for Interactive Texture Transfer
-> [28] Rewrite 
-> [29] Creating New Chinese Fonts based on Manifold Learning and Adversarial Networks
-> [30] A Learned Representation for Scalable Vector Graphics
-> [31] Tensor2Tensor for Neural Machine Translation
-> [31+] ImageNet Large Scale Visual Recognition Challenge (IJCV2015)
-> [32] Deep Learning for Generic Object Detection: A Survey(Li Liu, Wanli Ouyang)
-> [33] You Only Look Once: Unified, Real-Time Object Detection
-> [34] YOLO9000: Better, Faster, Stronger
-> [35] Focal Loss for Dense Object Detection
-> [36] Rich feature hierarchies for accurate object detection and semantic segmentation
-> [37] Selective search for object recognition
-> [38] Fast R-CNN
-> [39] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
-> [40] Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
-> [41] RFCN: object detection via region based fully convolutional networks
-> [42] CornerNet: Detecting Objects as Paired Keypoints
-> [43] CenterNet: Keypoint Triplets for Object Detection
-> [44] Objects as Points
-> [45] FCOS: Fully Convolutional One-Stage Object Detection
-> [45+] Region Proposal by Guided Anchoring
-> [46] Bottom-up Object Detection by Grouping Extreme and Center Points
-> [47] Hierarchical Chinese character database based on radical reuse
-> [48] A TrueType Font Compression Method Based on the Structure of Chinese Characters
-> [49] Skeleton-Guided Vectorization of Chinese Calligraphy Images
-> [50] As-Compact-As-Possible Vectorization for Character Images
-> [51] U-Net: Convolutional Networks for Biomedical Image Segmentation
-> [52] High logic. FontCreator[Z]. http://www.high-logic.com/, 2017
-> [53] Founder group FOUNDER: Founder group. http://www.foundertype.com/ (2015)
-> [54] Least squares quantization in PCM
-> [55] Automatical System to Generate High-Quality Chinese Font Libraries Based on Component Assembling
-> [56] A Benchmark For Stroke Extraction of Chinese Characters
-> [57] Automatic Shape Morphing for Chinese Characters
-> [58] 汉字笔画自动提取技术及其应用 RESEARCHES ON STROKE EXTRACTION METHODS AND APPLICATIONS FOR CHINESE CHARACTERS （陈旭东师兄毕业论文）
-> [59] Point set registration: Coherent point drift
-> [59+] Microsoft COCO: Common Objects in Context
-> [60] Deep Residual Learning for Image Recognition
-> [61] Wubi method — Wikipedia, The Free Encyclopedia.http://en.wikipedia.org/w/index.php?title=Wubi%20method&oldid=886931640.
-> [62] Wikipedia. 2019. MNIST databaseWikipedia. 2019. MNIST database — Wikipedia, The Free Encyclopedia.http://en.wikipedia.org/w/index.php?title=MNIST%20database&oldid=890581692. [Online; accessed 07-April-2019
-> [63] Structure-Aware Image Resizing for Chinese Characters
-> [64] Wiki Unicode
-> [65] Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression 
-> [66] Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
-> [67] Histograms of oriented gradients for human detection
-> [68] Designing chinese typeface using components
-> [69] Chinese Glyph Generation by Heuristic Search
-> [70] Directing user attention via visual flow on web designs
-> [71] Equation of state calculations by fast computing machines
-> [72] Monte Carlo sampling methods using Markov chains and their applications.
-> [73] Aesthetic visual quality evaluation of chinese handwritings （潘婉琼）
-> [74] Mask R-CNN
-> [75] CenterMask : Real-Time Anchor-Free Instance Segmentation
-
-
-
-
-```
+[1]  段华伟, 黄灵阁. 计算机文字处理技术现状[J]. 印刷质量与标准化, 2004, 5: 39-41.
+[2]  Wikipedia contributors. Computer font[Z]. https://en.wikipedia.org/w/index.php?title=Computer_font&oldid=891188663, 2019.
+[3]  Wikipedia contributors. GB 2312[Z]. https://en.wikipedia.org/w/index.php?title=GB_2312&oldid=887751871, 2019.
+[4]  Kirkpatrick S, Gelatt C D, Vecchi M P. Optimization by simulated annealing[J]. science, 1983, 220(4598): 671-680.
+[5]  董韫美. 一个产生高质量汉字的试验性系统[J]. 计算机学报, 1980 (1): 2.
+[6]  Xu S, Jin T, Jiang H, et al. Automatic generation of personal chinese handwriting by capturing the characteristics of personal handwriting[C]//Twenty-First IAAI Conference. 2009.
+[7]  Zhou B, Wang W, Chen Z. Easy generation of personal Chinese handwritten fonts[C]//2011 IEEE International Conference on Multimedia and Expo. IEEE, 2011: 1-6.
+[8]  Zong A, Zhu Y. Strokebank: Automating personalized chinese handwriting generation[C]//Twenty-Sixth IAAI Conference. 2014.
+[9]  Lin J W, Hong C Y, Chang R I, et al. Complete font generation of Chinese characters in personal handwriting style[C]//2015 IEEE 34th International Performance Computing and Communications Conference (IPCCC). IEEE, 2015: 1-5.
+[10]  Wang Y, Wang H, Pan C, et al. Style preserving Chinese character synthesis based on hierarchical representation of character[C]//2008 IEEE International Conference on Acoustics, Speech and Signal Processing. IEEE, 2008: 1097-1100.
+[11]  Campbell N D F, Kautz J. Learning a manifold of fonts[J]. ACM Transactions on Graphics (TOG), 2014, 33(4): 1-11.
+[12]  Haines T S F, Mac Aodha O, Brostow G J. My text in your handwriting[J]. ACM Transactions on Graphics (TOG), 2016, 35(3): 1-18.
+[13]  Miyazaki T, Tsuchiya T, Sugaya Y, et al. Automatic Generation of Typographic Font from Small Font Subset[J]. IEEE computer graphics and applications, 2019.
+[14]  Lian Z, Zhao B, Chen X, et al. EasyFont: a style learning-based system to easily build your large-scale handwriting fonts[J]. ACM Transactions on Graphics (TOG), 2018, 38(1): 1-18.
+[15]  LeCun Y, Bottou L, Bengio Y, et al. Gradient-based learning applied to document recognition[J]. Proceedings of the IEEE, 1998, 86(11): 2278-2324.
+[16]  Hochreiter S, Schmidhuber J. Long short-term memory[J]. Neural computation, 1997, 9(8): 1735-1780.
+[17]  Zhang Y, Zhang Y, Cai W. A unified framework for generalizable style transfer: Style and content separation[J]. IEEE Transactions on Image Processing, 2020, 29: 4085-4098.
+[18]  Goodfellow I, Pouget-Abadie J, Mirza M, et al. Generative adversarial nets[C]//Advances in neural information processing systems. 2014: 2672-2680.
+[19]  Sun D, Ren T, Li C, et al. Learning to write stylized chinese characters by reading a handful of examples[J]. arXiv preprint arXiv:1712.06424, 2017.
+[20]  Mirza M, Osindero S. Conditional generative adversarial nets[J]. arXiv preprint arXiv:1411.1784, 2014.
+[21]  Isola P, Zhu J Y, Zhou T, et al. Image-to-image translation with conditional adversarial networks[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2017: 1125-1134.
+[22]  Zhu J Y, Park T, Isola P, et al. Unpaired image-to-image translation using cycle-consistent adversarial networks[C]//Proceedings of the IEEE international conference on computer vision. 2017: 2223-2232.
+[23]  Yuchen Tian. zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks[Z].https://github.com/kaonashi-tyc/zi2zi, 2017.
+[24]  Jiang Y, Lian Z, Tang Y, et al. DCFont: an end-to-end deep Chinese font generation system[M]//SIGGRAPH Asia 2017 Technical Briefs. 2017: 1-4.
+[25]  Jiang Y, Lian Z, Tang Y, et al. SCFont: Structure-Guided Chinese Font Generation via Deep Stacked Networks[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 4015-4022.
+[26]  Lyu P, Bai X, Yao C, et al. Auto-encoder guided gan for chinese calligraphy synthesis[C]//2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR). IEEE, 2017, 1: 1095-1100.
+[27]  Hayashi H, Abe K, Uchida S. GlyphGAN: Style-consistent font generation based on generative adversarial networks[J]. Knowledge-Based Systems, 2019, 186: 104927.
+[28]  Azadi S, Fisher M, Kim V G, et al. Multi-content gan for few-shot font style transfer[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2018: 7564-7573.
+[29]  Men Y, Lian Z, Tang Y, et al. A common framework for interactive texture transfer[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 6353-6362.
+[30]  Yuchen Tian. Rewrite: Neural Style Transfer For Chinese Fonts[Z]. https://github.com/kaonashi-tyc/Rewrite, 2016
+[31]  Guo Y, Lian Z, Tang Y, et al. Creating New Chinese Fonts based on Manifold Learning and Adversarial Networks[C]//Eurographics (Short Papers). 2018: 61-64.
+[32]  Lopes R G, Ha D, Eck D, et al. A Learned Representation for Scalable Vector Graphics[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 7930-7939.
+[33]  Vaswani A, Bengio S, Brevdo E, et al. Tensor2tensor for neural machine translation[J]. arXiv preprint arXiv:1803.07416, 2018.
+[34]  Russakovsky O, Deng J, Su H, et al. Imagenet large scale visual recognition challenge[J]. International journal of computer vision, 2015, 115(3): 211-252.
+[35]  Liu L, Ouyang W, Wang X, et al. Deep learning for generic object detection: A survey[J]. International journal of computer vision, 2020, 128(2): 261-318.
+[36]  Redmon J, Divvala S, Girshick R, et al. You only look once: Unified, real-time object detection[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 779-788.
+[37]  Liu W, Anguelov D, Erhan D, et al. Ssd: Single shot multibox detector[C]//European conference on computer vision. Springer, Cham, 2016: 21-37.
+[38]  Redmon J, Farhadi A. YOLO9000: better, faster, stronger[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2017: 7263-7271.
+[39]  Lin T Y, Goyal P, Girshick R, et al. Focal loss for dense object detection[C]//Proceedings of the IEEE international conference on computer vision. 2017: 2980-2988.
+[40]  Girshick R, Donahue J, Darrell T, et al. Rich feature hierarchies for accurate object detection and semantic segmentation[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2014: 580-587.
+[41]  Uijlings J R R, Van De Sande K E A, Gevers T, et al. Selective search for object recognition[J]. International journal of computer vision, 2013, 104(2): 154-171.
+[42]  Girshick R. Fast r-cnn[C]//Proceedings of the IEEE international conference on computer vision. 2015: 1440-1448.
+[43]  Ren S, He K, Girshick R, et al. Faster r-cnn: Towards real-time object detection with region proposal networks[C]//Advances in neural information processing systems. 2015: 91-99.
+[44]  He K, Zhang X, Ren S, et al. Spatial pyramid pooling in deep convolutional networks for visual recognition[J]. IEEE transactions on pattern analysis and machine intelligence, 2015, 37(9): 1904-1916.
+[45]  Dai J, Li Y, He K, et al. R-fcn: Object detection via region-based fully convolutional networks[C]//Advances in neural information processing systems. 2016: 379-387.
+[46]  Law H, Deng J. Cornernet: Detecting objects as paired keypoints[C]//Proceedings of the European Conference on Computer Vision (ECCV). 2018: 734-750.
+[47]  Duan K, Bai S, Xie L, et al. Centernet: Keypoint triplets for object detection[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 6569-6578.
+[48]  Zhou X, Wang D, Krähenbühl P. Objects as points[J]. arXiv preprint arXiv:1904.07850, 2019.
+[49]  Tian Z, Shen C, Chen H, et al. Fcos: Fully convolutional one-stage object detection[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 9627-9636.
+[50]  Zhou X, Zhuo J, Krahenbuhl P. Bottom-up object detection by grouping extreme and center points[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 850-859.
+[51]  Wang J, Chen K, Yang S, et al. Region proposal by guided anchoring[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 2965-2974.
+[52]  FENG W, JIN L. Hierarchical Chinese character database based on radical reuse [J]. Journal of Computer Applications, 2006, 3.
+[53]  Tang Y M, Zhang Y X, Lu X Q. A truetype font compression method based on the structure of chinese characters[J]. Microelectronics & Computer, 2007, 24(06): 52-55.
+[54]  Pan W, Lian Z, Tang Y, et al. Skeleton-guided vectorization of Chinese calligraphy images[C]//2014 IEEE 16th International Workshop on Multimedia Signal Processing (MMSP). IEEE, 2014: 1-6.
+[55]  Xia Z, Lian Z, Tang Y, et al. As-compact-as-possible vectorization for character images[M]//SIGGRAPH Asia 2018 Technical Briefs. 2018: 1-4.
+[56]  Ronneberger O, Fischer P, Brox T. U-net: Convolutional networks for biomedical image segmentation[C]//International Conference on Medical image computing and computer-assisted intervention. Springer, Cham, 2015: 234-241.
+[57]  High logic. FontCreator[Z]. http://www.high-logic.com/, 2017
+[58]  Founder group. FounderType[Z]. http://www.foundertype.com/, 2017
+[59]  Lloyd S. Least squares quantization in PCM[J]. IEEE transactions on information theory, 1982, 28(2): 129-137.
+[60]  LIU Chengdong, LIAN Zhouhui, TANG Yingmin, XIAO Jianguo. Automatical System to Generate High-Quality Chinese Font Libraries Based on Component Assembling[J].Acta Scientiarum Naturalium Universitatis Pekinensis, 2018, 54(1): 35-41.
+[61]  Chen X, Lian Z, Tang Y, et al. A benchmark for stroke extraction of chinese characters[J]. Acta Scientiarum Naturalium Universitatis Pekinensis, 2016, 2(3): 4.
+[62]  Lian Z, Xiao J. Automatic shape morphing for chinese characters[M]//SIGGRAPH Asia 2012 Technical Briefs. 2012: 1-4.
+[63]  Chen X. 汉字笔画自动提取技术及其应用[D]. 北京大学信息科学技术学院, 2017.
+[64]  Myronenko A, Song X. Point set registration: Coherent point drift[J]. IEEE transactions on pattern analysis and machine intelligence, 2010, 32(12): 2262-2275.
+[65]  Lin T Y, Maire M, Belongie S, et al. Microsoft coco: Common objects in context[C]//European conference on computer vision. Springer, Cham, 2014: 740-755.
+[66]  He K, Zhang X, Ren S, et al. Deep residual learning for image recognition[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 770-778.
+[67]  Wikipedia contributors. Wubi method[Z]. http://en.wikipedia.org/w/index.php?title=Wubi%20method&oldid=886931640, 2019.
+[68]  Wikipedia contributors. MNIST database[Z]. https://en.wikipedia.org/w/index.php?title=MNIST_database&oldid=951170928, 2019.
+[69]  Liu C, Lian Z, Tang Y, et al. Structure-aware image resizing for Chinese characters[C]//International Conference on Multimedia Modeling. Springer, Cham, 2017: 379-390.
+[70]  Wikipedia contributors. Unicode[Z]. https://en.wikipedia.org/w/index.php?title=Unicode&oldid=950453479, 2020.
+[71]  Rezatofighi H, Tsoi N, Gwak J Y, et al. Generalized intersection over union: A metric and a loss for bounding box regression[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 658-666.
+[72]  Zheng Z, Wang P, Liu W, et al. Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression[J]. arXiv preprint arXiv:1911.08287, 2019.
+[73]  Dalal N, Triggs B. Histograms of oriented gradients for human detection[C]//2005 IEEE computer society conference on computer vision and pattern recognition (CVPR'05). IEEE, 2005, 1: 886-893.
+[74]  Wong P Y C, Hsu S C. Designing Chinese typeface using components[C]//Proceedings Nineteenth Annual International Computer Software and Applications Conference (COMPSAC'95). IEEE, 1995: 416-421.
+[75]  Pak K L, Yeung D Y, Pong M C. Chinese glyph generation by heuristic search[J]. Technical Report HKUST-CS96-17, Dept. of Computer Science, 1996.
+[76]  Pang X, Cao Y, Lau R W H, et al. Directing user attention via visual flow on web designs[J]. ACM Transactions on Graphics (TOG), 2016, 35(6): 1-11.
+[77]  Metropolis N, Rosenbluth A W, Rosenbluth M N, et al. Equation of state calculations by fast computing machines[J]. The journal of chemical physics, 1953, 21(6): 1087-1092.
+[78]  Hastings W K. Monte Carlo sampling methods using Markov chains and their applications[J]. 1970.
+[79]  Sun R, Lian Z, Tang Y, et al. Aesthetic visual quality evaluation of Chinese handwritings[C]//Twenty-Fourth International Joint Conference on Artificial Intelligence. 2015.
+[80]  He K, Gkioxari G, Dollár P, et al. Mask r-cnn[C]//Proceedings of the IEEE international conference on computer vision. 2017: 2961-2969.
+[81]  Lee Y, Park J. CenterMask: Real-Time Anchor-Free Instance Segmentation[J]. arXiv preprint arXiv:1911.06667, 2019.
